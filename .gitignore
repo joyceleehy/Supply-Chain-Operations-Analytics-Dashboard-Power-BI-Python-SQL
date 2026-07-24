@@ -1,0 +1,25 @@
+# Raw and cleaned data files (too large for GitHub)
+DataCoSupplyChainDataset.csv
+data/cleaned_supply_chain_data.csv
+data/supply_chain.db
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Power BI temp/lock files
+*.pbix.bak
+~$*.pbix
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional - keep if you don't want to share editor prefs)
+.vscode/
+
+
+
