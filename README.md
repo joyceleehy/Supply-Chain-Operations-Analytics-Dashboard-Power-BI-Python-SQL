@@ -114,7 +114,7 @@ High-level operational dashboard summarizing key supply chain KPIs including ful
 
 ---
 
-## Delivery Performance Analysis
+
 
 ![Delivery Performance Analysis](dashboard_screenshots/02_delivery_performance.png)
 
@@ -122,7 +122,7 @@ Analyzes delivery performance across shipping methods, identifies delay trends, 
 
 ---
 
-## Product & Regional Analysis
+
 
 ![Product & Regional Analysis](dashboard_screenshots/03_product_regional_analysis.png)
 
@@ -130,7 +130,7 @@ Examines delivery performance across different product categories and geographic
 
 ---
 
-## Exception Analysis
+
 
 ![Exception Analysis](dashboard_screenshots/04_exception_analysis.png)
 
